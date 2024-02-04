@@ -43,8 +43,8 @@ char plex = 1;
 void display(uint8_t v)
 {
   uint8_t val=v%10;
-  Serial.println(v);
-  Serial.println(val);
+  // Serial.println(v);
+  // Serial.println(val);
   if (val<6) {
     PORTC=1<<val;
     PORTB=0;
