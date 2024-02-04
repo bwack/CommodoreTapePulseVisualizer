@@ -88,7 +88,7 @@ void setup()
     display(count);
     delay(40);
   }
-  delay(100);
+  //delay(100);
 
   // For testing, uncomment one of these lines and connect
   // Pin 3 or Pin 5 to Pin 8
@@ -212,7 +212,7 @@ void loop()
 
 */    
     display(PulseHighTime>>7);
-    delay(1);
+    //delay(1);
 
     // Request another sample
     noInterrupts();
