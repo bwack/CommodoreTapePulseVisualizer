@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KU-schematics-library")(type "Legacy")(uri "/home/hans/bwack-git/C64-250407-KiCad/KU-schematics-library.lib")(options "")(descr ""))
+)

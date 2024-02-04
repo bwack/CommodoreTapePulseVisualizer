@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "c64c-library")(type "KiCad")(uri "/home/hans/bwack-git/C64-250469-KiCad/c64c-library.pretty")(options "")(descr ""))
+  (lib (name "jaujau")(type "KiCad")(uri "${KIPRJMOD}/jaujau.pretty")(options "")(descr ""))
+)
